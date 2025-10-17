@@ -1,54 +1,102 @@
-<!-- 👋 Zhuoyong Shi | GitHub Profile README -->
+<!-- 💡 Zhuoyong Shi | GitHub Profile README -->
 
-# 👋 Hi, I'm **Zhuoyong Shi (石卓勇)**  
+<div align="center">
+
+# 👋 Hi, I'm **Zhuoyong Shi (史卓勇)**  
 *Bridging intelligent sensing and physical modeling to digitize the dynamic states of humans, machines, and environments.*
 
-🎓 **Ph.D. Candidate**, National University of Singapore (NUS)  
-💡 Full Research Scholarship | Flexible Electronics · Machine Learning · UAV Systems · Digital Twin  
+🎓 **Ph.D. Candidate**, [National University of Singapore (NUS)](https://nus.edu.sg)  
+💡 *Fully Funded by NUS Research Scholarship*  
+🧠 Advisor: Prof. **Liu Xiaogang**, Fellow of the Singapore National Academy of Science  
+
+🌐 [Personal Website](https://zyshi0216.github.io/) | 📄 [CV](https://zyshi0216.github.io/files/zyshiCV_en.pdf) | 🧠 [Google Scholar](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=zyshi0216&style=flat-square&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/zyshi0216?style=social)](https://github.com/zyshi0216?tab=followers)
+[![Google Scholar Citations](https://img.shields.io/badge/Citations-130%2B-brightgreen?logo=googlescholar)](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en)
+[![Website](https://img.shields.io/badge/Website-Online-blue?logo=githubpages)](https://zyshi0216.github.io/)
+
+</div>
 
 ---
 
 ### 🧩 About Me  
-Shi Zhuoyong was born in China in 2001. He is currently pursuing a Ph.D. in Science at the National University of Singapore on a fully funded research scholarship. He received his B.Eng. and M.Eng. degrees in 2022 and 2025, respectively.
 
-📄 [View My CV](https://zyshi0216.github.io/show/zyshiCV_en.pdf) | 🧠 [Google Scholar](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en) | 🌐 [Personal Website](https://zyshi0216.github.io/)
+I'm a Ph.D. candidate at the **National University of Singapore**, working at the intersection of **intelligent sensing, physics-informed modeling, and cyber-physical intelligence**.  
+My research aims to build bridges between **sensors, models, and decision-making systems** — digitizing the dynamics of **humans, machines, and environments**.  
+
+> 🪄 *Turning signals into insight, and models into motion.*
+
+---
+
+### 🧠 Research Highlights  
+
+- **10+ SCI-indexed papers** (5× Q1, IEEE / Drones / Chinese Journal of Aeronautics)  
+- **Citations:** 130+ | **h-index:** 6 | [Google Scholar ↗](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en)  
+- **Journal Editor:** *Journal of Intelligent Aeronautical Systems & Sustainable Flight Technologies*  
+- **Reviewer for:** *IEEE TAES, IEEE Sensors Journal, Scientific Reports, Aerospace, Sustainability*, etc.  
+- **Invention Patent (China):** *CN116662937B – Aircraft Data Security Monitoring System*  
 
 ---
 
 ### 🔬 Research Interests  
-- 💪 **Human Digital Twin** – Multi-modal muscle sensing, motion decoding, and rehabilitation AI  
-- 🌪️ **UAV & Turbulence Modeling** – Radar fusion, low-altitude turbulence reconstruction, and optimal route planning  
-- ⚙️ **Cyber-Physical Intelligence** – Sensing–modeling–optimization loop, adaptive control  
-- 🧵 **Flexible Electronics** – Soft sensor design, FPC integration, real-time acquisition systems  
+
+| Theme | Keywords |
+|--------|-----------|
+| 💪 **Human Digital Twin** | Wearable sensors · Muscle fatigue · Embodied intelligence |
+| 🌪️ **UAV & Turbulence Modeling** | Multi-radar data fusion · 3D turbulence reconstruction · Path optimization |
+| ⚙️ **Cyber-Physical Systems** | Physics-informed learning · Reinforcement learning · Adaptive control |
+| 🧵 **Flexible Electronics** | FPC-based sensor integration · Real-time data acquisition · Edge AI |
 
 ---
 
-### 🚀 Selected Projects  
+### 🚀 Featured Projects  
+
 | Project | Description |
 |----------|-------------|
-| [🧠 Muscle Fatigue Stethoscope](https://github.com/zyshi0216/muscle-fatigue-stethoscope) | Multi-modal wearable sensing system integrating EMG, PPG, pressure, and IMU data for muscle fatigue analysis |
+| [🧠 Muscle Fatigue Stethoscope](https://github.com/zyshi0216/muscle-fatigue-stethoscope) | Multi-modal wearable sensing system (EMG, PPG, pressure, IMU) for muscle fatigue analysis |
 | [🌪️ UAV Turbulence 3D](https://github.com/zyshi0216/uav-turbulence-3d) | Multi-radar data assimilation and optimal UAV route planning under low-altitude turbulence |
-| [💧 Desert Water Harvester](https://github.com/zyshi0216/desert-awh) | Smart condensation system with environmental sensors and AI optimization |
-| [🛰️ GCN-MARL for UAVs](https://github.com/zyshi0216/gcn-marl-uav) | Graph-based reinforcement learning framework for UAV swarm coordination |
+| [💧 Desert Water Harvester](https://github.com/zyshi0216/desert-awh) | Smart condensation control with environmental sensors & AI optimization |
+| [🛰️ GCN-MARL for UAVs](https://github.com/zyshi0216/gcn-marl-uav) | Graph-based reinforcement learning framework for multi-UAV collaboration |
+| [📡 Digital Twin Simulator](https://github.com/zyshi0216/human-digital-twin-sim) | Virtual human modeling for multi-modal motion sensing and rehabilitation |
 
 ---
 
 ### 🧭 Research Vision  
-> 用智能传感与物理建模的桥梁，  
-> 把人、机器与环境的动态状态数字化。  
+
+> “用智能传感与物理建模的桥梁，  
+> 把人、机器与环境的动态状态数字化。”  
 > *Bridging intelligent sensing and physical modeling to digitize the dynamic states of humans, machines, and environments.*
 
 ---
 
-### 📈 GitHub Stats  
+### 🧩 Stats & Activities  
 
-![Zhuoyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyshi0216&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyshi0216&layout=compact)
+<div align="center">
+
+![Zhuoyong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyshi0216&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyshi0216&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=zyshi0216&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-### 📫 Contact  
+### 📨 Contact  
+
 [![Email](https://img.shields.io/badge/Email-zyshi0216%40gmail.com-blue?logo=gmail)](mailto:zyshi0216@gmail.com)
-[![Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=googlescholar)](#)
+[![Website](https://img.shields.io/badge/Website-zyshi0216.github.io-blue?logo=githubpages)](https://zyshi0216.github.io/)
+[![Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=googlescholar)](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](#)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-green?logo=orcid)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](#)
+
+---
+
+<div align="center">
+
+⭐ *"Science is the poetry of reality — and engineering is how we write it."*  
+© 2025 **Zhuoyong Shi** · Last updated: Oct 2025  
+
+</div>
