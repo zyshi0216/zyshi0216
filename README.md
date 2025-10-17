@@ -123,25 +123,37 @@ Virtual human reconstruction using multimodal sensing and biomechanics for rehab
 ---
 
 
-
 ### 🧩 Stats & Activities  
 
 <div align="center">
 
-📊 **GitHub Activity Overview**  
-![Zhuoyong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyshi0216&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&hide=prs)  
+<table>
+<tr>
+<td align="center" width="50%">
+  
+📊 **GitHub Overview**  
+<img src="https://github-readme-stats.vercel.app/api?username=zyshi0216&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github&hide_title=true" height="150"/>
 
-🧮 **Language Composition**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyshi0216&layout=donut&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5)  
+</td>
+<td align="center" width="50%">
+  
+🧮 **Language Usage**  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyshi0216&layout=compact&theme=transparent&hide_border=true" height="150"/>
+
+</td>
+</tr>
+</table>
 
 🔥 **Contribution Streak**  
-![GitHub Streak](https://streak-stats.demolab.com?user=zyshi0216&theme=transparent&hide_border=true&mode=weekly)  
+<img src="https://streak-stats.demolab.com?user=zyshi0216&theme=transparent&hide_border=true&mode=weekly" height="160"/>
 
-🏆 **Profile Achievements**  
-![trophy](https://github-profile-trophy.vercel.app/?username=zyshi0216&theme=flat&no-bg=true&no-frame=true&margin-w=5&title=MultiLanguage,Stars,Commits,Followers,Repositories)
+🏆 **Achievements**  
+<img src="https://github-profile-trophy.vercel.app/?username=zyshi0216&theme=flat&no-bg=true&no-frame=true&margin-w=8&title=Followers,Stars,Commits,Repositories" height="90"/>
 
 </div>
-> 🧭 *“Numbers tell the rhythm of research — curiosity fuels the continuity.”*
+
+> ✨ *“Research is rhythm — consistent curiosity turns numbers into knowledge.”*
+
 
 
 ---
