@@ -7,7 +7,7 @@
 
 🎓 **Ph.D. Candidate**, [National University of Singapore (NUS)](https://nus.edu.sg)  
 💡 *Fully Funded by NUS Research Scholarship*  
-🧠 Advisor: Prof. **Liu Xiaogang**, Fellow of the Singapore National Academy of Science  
+🏛️ Advisor: Prof. **Liu Xiaogang**, Fellow of the Singapore National Academy of Science  
 
 🌐 [Personal Website](https://zyshi0216.github.io/) | 📄 [CV](https://zyshi0216.github.io/files/zyshiCV_en.pdf) | 🧠 [Google Scholar](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en)
 
