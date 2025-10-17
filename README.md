@@ -91,13 +91,31 @@ My research aims to build bridges between **sensors, models, and decision-making
 
 ### 🚀 Featured Projects  
 
-| Project | Description |
-|----------|-------------|
-| [🧠 Muscle Fatigue Stethoscope](https://github.com/zyshi0216/muscle-fatigue-stethoscope) | Multi-modal wearable sensing system (EMG, PPG, pressure, IMU) for muscle fatigue analysis |
-| [🌪️ UAV Turbulence 3D](https://github.com/zyshi0216/uav-turbulence-3d) | Multi-radar data assimilation and optimal UAV route planning under low-altitude turbulence |
-| [💧 Desert Water Harvester](https://github.com/zyshi0216/desert-awh) | Smart condensation control with environmental sensors & AI optimization |
-| [🛰️ GCN-MARL for UAVs](https://github.com/zyshi0216/gcn-marl-uav) | Graph-based reinforcement learning framework for multi-UAV collaboration |
-| [📡 Digital Twin Simulator](https://github.com/zyshi0216/human-digital-twin-sim) | Virtual human modeling for multi-modal motion sensing and rehabilitation |
+🧠 **Muscle Fatigue Stethoscope**  
+A multimodal wearable sensing platform integrating EMG, PPG, pressure, and IMU data for muscle fatigue analysis and digital twin modeling.  
+> 🔧 *Hardware Design · Flexible Electronics · AI-driven Motion Analysis*  
+> 🔗 [View on GitHub →](https://github.com/zyshi0216/muscle-fatigue-stethoscope)
+
+🌪️ **UAV Turbulence 3D**  
+Multi-radar data assimilation and low-altitude turbulence reconstruction for optimal UAV path planning under uncertain wind fields.  
+> 🌍 *3D Environmental Modeling · Reinforcement Learning · Data Fusion*  
+> 🔗 [View on GitHub →](https://github.com/zyshi0216/uav-turbulence-3d)
+
+💧 **Desert Atmospheric Water Harvester**  
+Smart condensation device equipped with sensors and adaptive AI control to maximize water yield under fluctuating desert conditions.  
+> ☀️ *Smart Materials · Environmental Sensing · Autonomous Control*  
+> 🔗 [View on GitHub →](https://github.com/zyshi0216/desert-awh)
+
+🛰️ **GCN-MARL for UAV Swarms**  
+Graph-based reinforcement learning framework for cooperative multi-UAV mission execution and real-time decision-making.  
+> 🤖 *Multi-agent RL · Graph Neural Networks · Distributed Optimization*  
+> 🔗 [View on GitHub →](https://github.com/zyshi0216/gcn-marl-uav)
+
+📡 **Human Digital Twin Simulator**  
+Virtual human reconstruction using multimodal sensing and biomechanics for rehabilitation, training, and motion skill decoding.  
+> 🩻 *Digital Twin · Biomechanics · Motion Reconstruction*  
+> 🔗 [View on GitHub →](https://github.com/zyshi0216/human-digital-twin-sim)
+
 
 ---
 
