@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm **Zhuoyong Shi (史卓勇)**  
+# 👋 Hi, I'm **Zhuoyong Shi (石卓勇)**  
 *Bridging intelligent sensing and physical modeling to digitize the dynamic states of humans, machines, and environments.*
 
 🎓 **Ph.D. Candidate**, [National University of Singapore (NUS)](https://nus.edu.sg)  
