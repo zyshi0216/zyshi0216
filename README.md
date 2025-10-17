@@ -128,11 +128,21 @@ Virtual human reconstruction using multimodal sensing and biomechanics for rehab
 
 <div align="center">
 
-![Zhuoyong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyshi0216&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyshi0216&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=zyshi0216&theme=tokyonight&hide_border=true)
+📊 **GitHub Activity Overview**  
+![Zhuoyong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyshi0216&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&hide=prs)  
+
+🧮 **Language Composition**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyshi0216&layout=donut&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5)  
+
+🔥 **Contribution Streak**  
+![GitHub Streak](https://streak-stats.demolab.com?user=zyshi0216&theme=transparent&hide_border=true&mode=weekly)  
+
+🏆 **Profile Achievements**  
+![trophy](https://github-profile-trophy.vercel.app/?username=zyshi0216&theme=flat&no-bg=true&no-frame=true&margin-w=5&title=MultiLanguage,Stars,Commits,Followers,Repositories)
 
 </div>
+> 🧭 *“Numbers tell the rhythm of research — curiosity fuels the continuity.”*
+
 
 ---
 
