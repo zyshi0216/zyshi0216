@@ -63,20 +63,27 @@ My research aims to build bridges between **sensors, models, and decision-making
 
 
 ---
-
 ### 🔬 Research Interests  
+🌌 *“From signals to systems — sensing, modeling, and understanding the physical world.”*
+---
+> *Digitizing humans, machines, and environments through intelligent sensing and physics-informed modeling.*
 
-🧠 **Intelligent Sensing & Flexible Electronics**  
-Design of multimodal wearable sensors, flexible FPC systems, and real-time acquisition circuits for muscle and physiological monitoring.  
+💡 **Intelligent Sensing & Flexible Electronics**  
+> Designing multimodal wearable systems — from sEMG, IMU, and PPG arrays to flexible FPC circuits — for real-time physiological and motion perception.  
+> 🧩 *Keywords:* Wearable Sensors · FPC Integration · Signal Fusion · Real-time Monitoring  
 
 🩻 **Human Digital Twin & Embodied Intelligence**  
-Modeling and decoding of fine-grained human motions and muscle fatigue through multimodal fusion and AI-driven biomechanics.  
+> Building data–physics hybrid models that replicate human movement and muscle dynamics for rehabilitation and skill analysis.  
+> 🧠 *Keywords:* Motion Decoding · Muscle Fatigue · Biomechanics · Digital Twin  
 
 🌪️ **UAV Intelligence & Environmental Modeling**  
-3D turbulence reconstruction, multi-radar data assimilation, and reinforcement learning–based multi-UAV coordination.  
+> Reconstructing low-altitude turbulence fields via multi-radar fusion and optimizing swarm UAV paths with deep reinforcement learning.  
+> 🚀 *Keywords:* UAV Swarm · 3D Turbulence · Reinforcement Learning · Path Planning  
 
 ⚙️ **Physics-informed AI & Cyber-Physical Systems**  
-Bridging data-driven and physics-based models for adaptive decision-making and closed-loop intelligent control.  
+> Merging physical constraints with AI to enable adaptive, self-optimizing systems that bridge sensing, modeling, and control.  
+> 🔗 *Keywords:* Physics-informed Learning · Control Systems · Adaptive Optimization · Cyber-Physical Intelligence  
+
 
 
 ---
