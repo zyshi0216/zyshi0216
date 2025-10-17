@@ -33,14 +33,14 @@ My research aims to build bridges between **sensors, models, and decision-making
 ---
 
 ### 🏆 Honors & Awards  
+🌍 **ITU Generation Connect Youth Envoy**, *United Nations*  
+🎖️ **China National Scholarship** ×2 — *Top 0.2% Nationwide*  
+🏅 **BaoGang Outstanding Student Scholarship** — *Top 0.01% Baosteel Education Foundation*  
+💎 **Distinguished Graduate**, *XJTUCC & NPU, 2022 & 2025*
+🎓 **Academic Excellence Award**, NPU Graduate School  
+🚀 **Project Leader**, Postgraduate Innovation & Practice Fund (Shaanxi, 2024–2025)  
+📘 **Reviewer / Editor**, *IEEE, MDPI, Springer, Wiley, etc.*
 
-- 💡 **ITU Generation Connect Youth Envoy** (*International Telecommunication Union, United Nations*)  
-- 🥇 **China National Scholarship** ×2 (*Top 0.2% nationwide, Ministry of Education, China*)  
-- 🏅 **BaoGang Outstanding Student Scholarship** (*Top 0.01%, Baosteel Education Foundation*)  
-- 🎓 **Distinguished Graduate** (*XJTUCC & NPU, 2022 & 2025*)  
-- 🧠 **Academic First-Class Scholarship** ×2 (*NPU Graduate School of Electronic Science & Technology*)  
-- 🧾 **Postgraduate Innovation and Practice Fund Project Leader** (*Shaanxi Province, 2024–2025*)  
-- 🧩 **Reviewer / Editor for SCI Journals** (*IEEE, MDPI, Springer, Wiley, etc.*)
 
 ---
 
