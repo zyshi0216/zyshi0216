@@ -147,14 +147,16 @@ Virtual human reconstruction using multimodal sensing and biomechanics for rehab
 🔥 **Contribution Streak**  
 <img src="https://streak-stats.demolab.com?user=zyshi0216&theme=transparent&hide_border=true&mode=weekly" height="160"/>
 
-🏆 **Achievements**  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zyshi0216&theme=flat&no-bg=true&no-frame=true&margin-w=8&title=Followers,Stars,Commits,Repositories" height="90"/>
-</p>
+🏆 **Achievements**
 
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zyshi0216&theme=flat&no-bg=true&no-frame=true&margin-w=8&title=Followers,Stars,Commits,Repositories" height="90"/>
+</div>
+
 > ✨ *“Research is rhythm — consistent curiosity turns numbers into knowledge.”*
+
 
 
 
