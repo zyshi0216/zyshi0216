@@ -34,6 +34,9 @@ My research aims to build bridges between **sensors, models, and decision-making
 
 ### 🏆 Honors & Awards  
 🌍 **ITU Generation Connect Youth Envoy**, *United Nations*  
+🗣️ **Global Youth Summit Keynote Speaker**, representing young researchers in intelligent systems  
+🚀 **Asia’s Sole Delegate**, *Global Innovation Forum* (Geneva)  
+🎓 **Ranked 1st/267**, School of Electronic Science and Technology, Northwestern Polytechnical University  
 🎖️ **China National Scholarship** ×2 — *Top 0.2% Nationwide*  
 🏅 **BaoGang Outstanding Student Scholarship** — *Top 0.01% Baosteel Education Foundation*  
 💎 **Distinguished Graduate**, *XJTUCC & NPU, 2022 & 2025*
