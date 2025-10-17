@@ -11,7 +11,7 @@
 ### 🧩 About Me  
 Shi Zhuoyong was born in China in 2001. He is currently pursuing a Ph.D. in Science at the National University of Singapore on a fully funded research scholarship. He received his B.Eng. and M.Eng. degrees in 2022 and 2025, respectively.
 
-📄 [View My CV](#) | 🧠 [Google Scholar](#) | 🌐 [Personal Website](#)
+📄 [View My CV](https://zyshi0216.github.io/show/zyshiCV_en.pdf) | 🧠 [Google Scholar](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en) | 🌐 [Personal Website](https://zyshi0216.github.io/)
 
 ---
 
