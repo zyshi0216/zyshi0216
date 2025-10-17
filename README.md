@@ -9,11 +9,7 @@
 ---
 
 ### 🧩 About Me  
-Shi Zhuoyong was born in China in 2001. He is currently pursuing a Ph.D. in Science at the National University of Singapore on a fully funded research scholarship.  
-He received his B.Eng. and M.Eng. degrees in 2022 and 2025, respectively.
-
-His research focuses on **intelligent sensing, physics-informed modeling, and adaptive optimization**, aiming to build bridges between sensors, models, and decision-making.  
-He has published **over ten SCI-indexed papers**, spanning wearable muscle sensing, digital-twin modeling, and UAV swarm intelligence.  
+Shi Zhuoyong was born in China in 2001. He is currently pursuing a Ph.D. in Science at the National University of Singapore on a fully funded research scholarship. He received his B.Eng. and M.Eng. degrees in 2022 and 2025, respectively.
 
 📄 [View My CV](#) | 🧠 [Google Scholar](#) | 🌐 [Personal Website](#)
 
