@@ -33,6 +33,7 @@ My research aims to build bridges between **sensors, models, and decision-making
 ---
 
 ### 🏆 Honors & Awards  
+
 🌍 **ITU Generation Connect Youth Envoy**, *United Nations*  
 🗣️ **Global Youth Summit Keynote Speaker**, representing young researchers in intelligent systems  
 🚀 **Asia’s Sole Delegate**, *Global Innovation Forum* (Geneva)  
@@ -40,7 +41,6 @@ My research aims to build bridges between **sensors, models, and decision-making
 🎖️ **China National Scholarship** ×2 — *Top 1% Nationwide*  
 🏅 **BaoGang Outstanding Student Scholarship** — *Top 0.01% Baosteel Education Foundation*  
 💎 **Distinguished Graduate**, *XJTUCC & NPU, 2022 & 2025*
-</div>
 🚀 **Project Leader**, Postgraduate Innovation & Practice Fund (Shaanxi, 2024–2025)  
 📘 **Reviewer / Editor**, *IEEE, MDPI, Springer, Wiley, etc.*
 
