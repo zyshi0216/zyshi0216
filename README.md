@@ -36,7 +36,7 @@ My research aims to build bridges between **sensors, models, and decision-making
 
 ### 🧠 Research Highlights  
 
-- **10+ SCI-indexed papers** (5× Q1, IEEE / Drones / Chinese Journal of Aeronautics)  
+- **10+ SCI-indexed papers** (10 × Q1 × First/Corresponding author, IEEE / Drones / Chinese Journal of Aeronautics)  
 - **Citations:** 130+ | **h-index:** 6 | [Google Scholar ↗](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en)  
 - **Journal Editor:** *Journal of Intelligent Aeronautical Systems & Sustainable Flight Technologies*  
 - **Reviewer for:** *IEEE TAES, IEEE Sensors Journal, Scientific Reports, Aerospace, Sustainability*, etc.  
