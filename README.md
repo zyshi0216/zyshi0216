@@ -60,12 +60,18 @@ My research aims to build bridges between **sensors, models, and decision-making
 
 ### 🔬 Research Interests  
 
-| Theme | Keywords |
-|--------|-----------|
-| 💪 **Human Digital Twin** | Wearable sensors · Muscle fatigue · Embodied intelligence |
-| 🌪️ **UAV & Turbulence Modeling** | Multi-radar data fusion · 3D turbulence reconstruction · Path optimization |
-| ⚙️ **Cyber-Physical Systems** | Physics-informed learning · Reinforcement learning · Adaptive control |
-| 🧵 **Flexible Electronics** | FPC-based sensor integration · Real-time data acquisition · Edge AI |
+🧠 **Intelligent Sensing & Flexible Electronics**  
+Design of multimodal wearable sensors, flexible FPC systems, and real-time acquisition circuits for muscle and physiological monitoring.  
+
+🩻 **Human Digital Twin & Embodied Intelligence**  
+Modeling and decoding of fine-grained human motions and muscle fatigue through multimodal fusion and AI-driven biomechanics.  
+
+🌪️ **UAV Intelligence & Environmental Modeling**  
+3D turbulence reconstruction, multi-radar data assimilation, and reinforcement learning–based multi-UAV coordination.  
+
+⚙️ **Physics-informed AI & Cyber-Physical Systems**  
+Bridging data-driven and physics-based models for adaptive decision-making and closed-loop intelligent control.  
+
 
 ---
 
