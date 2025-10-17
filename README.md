@@ -117,6 +117,11 @@ Virtual human reconstruction using multimodal sensing and biomechanics for rehab
 > 🩻 *Digital Twin · Biomechanics · Motion Reconstruction*  
 > 🔗 [View on GitHub →](https://github.com/zyshi0216/human-digital-twin-sim)
 
+🏓 **Table Tennis Motor Skill Recognition & Evaluation System**  
+A comprehensive AI-driven system for recognizing, modeling, and evaluating the fine-grained motor skills of table tennis players.  
+> 🧩 *Wearable Sensing · Feature Engineering · Neural Networks · Skill Assessment*  
+> 📄 *Supported by NPU Postgraduate Innovation & Practice Fund (Grant No. PF2024067)*  
+> 🔗 [View on GitHub →](https://github.com/zyshi0216/table-tennis-motor-skill-ai)
 
 
 
