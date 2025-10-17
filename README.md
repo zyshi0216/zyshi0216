@@ -42,7 +42,7 @@ My research aims to build bridges between **sensors, models, and decision-making
 - 🧾 **Postgraduate Innovation and Practice Fund Project Leader** (*Shaanxi Province, 2024–2025*)  
 - 🧩 **Reviewer / Editor for SCI Journals** (*IEEE, MDPI, Springer, Wiley, etc.*)
 
-
+---
 
 ### 🧠 Research Highlights  
 
