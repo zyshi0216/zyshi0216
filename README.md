@@ -40,7 +40,7 @@ My research aims to build bridges between **sensors, models, and decision-making
 🎓 **Ranked 1st/267**, School of Electronic Information, Northwestern Polytechnical University  
 🎖️ **China National Scholarship** ×2 — *Top 1% Nationwide*  
 🏅 **BaoGang Outstanding Student Scholarship** — *Top 0.01% Baosteel Education Foundation*  
-💎 **Distinguished Graduate**, *XJTUCC & NPU, 2022 & 2025*
+💎 **Distinguished Graduate**, *XJTUCC & NPU, 2022 & 2025*  
 🚀 **Project Leader**, Postgraduate Innovation & Practice Fund (Shaanxi, 2024–2025)  
 📘 **Reviewer / Editor**, *IEEE, MDPI, Springer, Wiley, etc.*
 
