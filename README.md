@@ -30,6 +30,20 @@ My research aims to build bridges between **sensors, models, and decision-making
 
 > 🪄 *Turning signals into insight, and models into motion.*
 
+
+
+---
+
+### 🧠 Research Highlights  
+
+- **10+ SCI-indexed papers** (5× Q1, IEEE / Drones / Chinese Journal of Aeronautics)  
+- **Citations:** 130+ | **h-index:** 6 | [Google Scholar ↗](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en)  
+- **Journal Editor:** *Journal of Intelligent Aeronautical Systems & Sustainable Flight Technologies*  
+- **Reviewer for:** *IEEE TAES, IEEE Sensors Journal, Scientific Reports, Aerospace, Sustainability*, etc.  
+- **Invention Patent (China):** *CN116662937B – Aircraft Data Security Monitoring System*
+
+
+
 ---
 
 ### 🏆 Honors & Awards  
@@ -46,15 +60,7 @@ My research aims to build bridges between **sensors, models, and decision-making
 📘 **Reviewer / Editor**, *IEEE, MDPI, Springer, Wiley, etc.*
 
 
----
 
-### 🧠 Research Highlights  
-
-- **10+ SCI-indexed papers** (5× Q1, IEEE / Drones / Chinese Journal of Aeronautics)  
-- **Citations:** 130+ | **h-index:** 6 | [Google Scholar ↗](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en)  
-- **Journal Editor:** *Journal of Intelligent Aeronautical Systems & Sustainable Flight Technologies*  
-- **Reviewer for:** *IEEE TAES, IEEE Sensors Journal, Scientific Reports, Aerospace, Sustainability*, etc.  
-- **Invention Patent (China):** *CN116662937B – Aircraft Data Security Monitoring System*  
 
 ---
 
