@@ -91,30 +91,26 @@ My research aims to build bridges between **sensors, models, and decision-making
 
 ### 🚀 Featured Projects  
 
-🧠 **Muscle Fatigue Stethoscope**  
-A multimodal wearable sensing platform integrating EMG, PPG, pressure, and IMU data for muscle fatigue analysis and digital twin modeling.  
-> 🔧 *Hardware Design · Flexible Electronics · AI-driven Motion Analysis*  
-> 🔗 [View on GitHub →](https://github.com/zyshi0216/muscle-fatigue-stethoscope)
+<div align="center">
+
+💡 **Muscle Fatigue Stethoscope**  
+<sub>Multi-modal wearable sensing system integrating EMG, PPG, pressure, and IMU data.</sub>  
+[🔗 GitHub Repo](https://github.com/zyshi0216/muscle-fatigue-stethoscope) | [🧠 Concept Image](https://zyshi0216.github.io/)
+
+---
 
 🌪️ **UAV Turbulence 3D**  
-Multi-radar data assimilation and low-altitude turbulence reconstruction for optimal UAV path planning under uncertain wind fields.  
-> 🌍 *3D Environmental Modeling · Reinforcement Learning · Data Fusion*  
-> 🔗 [View on GitHub →](https://github.com/zyshi0216/uav-turbulence-3d)
+<sub>3D turbulence reconstruction & reinforcement learning for optimal UAV flight paths.</sub>  
+[🔗 GitHub Repo](https://github.com/zyshi0216/uav-turbulence-3d)
+
+---
 
 💧 **Desert Atmospheric Water Harvester**  
-Smart condensation device equipped with sensors and adaptive AI control to maximize water yield under fluctuating desert conditions.  
-> ☀️ *Smart Materials · Environmental Sensing · Autonomous Control*  
-> 🔗 [View on GitHub →](https://github.com/zyshi0216/desert-awh)
+<sub>AI-enhanced condensation system for desert water collection and climate adaptation.</sub>  
+[🔗 GitHub Repo](https://github.com/zyshi0216/desert-awh)
 
-🛰️ **GCN-MARL for UAV Swarms**  
-Graph-based reinforcement learning framework for cooperative multi-UAV mission execution and real-time decision-making.  
-> 🤖 *Multi-agent RL · Graph Neural Networks · Distributed Optimization*  
-> 🔗 [View on GitHub →](https://github.com/zyshi0216/gcn-marl-uav)
+</div>
 
-📡 **Human Digital Twin Simulator**  
-Virtual human reconstruction using multimodal sensing and biomechanics for rehabilitation, training, and motion skill decoding.  
-> 🩻 *Digital Twin · Biomechanics · Motion Reconstruction*  
-> 🔗 [View on GitHub →](https://github.com/zyshi0216/human-digital-twin-sim)
 
 
 ---
