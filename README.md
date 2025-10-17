@@ -86,11 +86,12 @@ My research aims to build bridges between **sensors, models, and decision-making
 
 ### 📨 Contact  
 
-[![Email](https://img.shields.io/badge/Email-zyshi0216%40gmail.com-blue?logo=gmail)](mailto:zyshi0216@gmail.com)
+[![Email](https://img.shields.io/badge/Email-shizhuoyong%40u.nus.edu-blue?logo=gmail)](mailto:shizhuoyong@u.nus.edu)
 [![Website](https://img.shields.io/badge/Website-zyshi0216.github.io-blue?logo=githubpages)](https://zyshi0216.github.io/)
 [![Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=googlescholar)](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](#)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-green?logo=orcid)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zhuoyong_Shi-blue?logo=linkedin)](https://www.linkedin.com/in/zhuoyong-shi-337138335/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3496--7362-green?logo=orcid)](https://orcid.org/0000-0002-3496-7362)
+
 
 ---
 
