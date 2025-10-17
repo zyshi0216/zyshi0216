@@ -41,7 +41,8 @@ My research aims to build bridges between **sensors, models, and decision-making
 - **Journal Editor:** *Journal of Intelligent Aeronautical Systems & Sustainable Flight Technologies*  
 - **Reviewer for:** *IEEE TAES, IEEE Sensors Journal, Scientific Reports, Aerospace, Sustainability*, etc.  
 - **Invention Patent (China):** *CN116662937B – Aircraft Data Security Monitoring System*
-
+> 🌍 *Research Vision:*  
+> **Bridging intelligent sensing and physical modeling to digitize the dynamic states of humans, machines, and environments.**
 
 
 ---
@@ -100,13 +101,7 @@ My research aims to build bridges between **sensors, models, and decision-making
 
 ---
 
-### 🧭 Research Vision  
 
-> “用智能传感与物理建模的桥梁，  
-> 把人、机器与环境的动态状态数字化。”  
-> *Bridging intelligent sensing and physical modeling to digitize the dynamic states of humans, machines, and environments.*
-
----
 
 ### 🧩 Stats & Activities  
 
