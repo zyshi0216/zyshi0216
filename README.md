@@ -32,6 +32,18 @@ My research aims to build bridges between **sensors, models, and decision-making
 
 ---
 
+### 🏆 Honors & Awards  
+
+- 🥇 **China National Scholarship** ×2 (*Top 0.2% nationwide, Ministry of Education, China*)  
+- 🏅 **BaoGang Outstanding Student Scholarship** (*Top 0.01%, National Metallurgical Corporation Foundation*)  
+- 🎓 **Distinguished Graduate** (*Northwestern Polytechnical University, 2022 & 2025*)  
+- 💡 **ITU Generation Connect Youth Envoy** (*International Telecommunication Union, United Nations*)  
+- 🧠 **Academic First-Class Scholarship** ×2 (*NPU Graduate School of Electronic Science & Technology*)  
+- 🧾 **Postgraduate Innovation and Practice Fund Project Leader** (*Shaanxi Province, 2024–2025*)  
+- 🧩 **Reviewer / Editor for SCI Journals** (*IEEE, MDPI, Springer, Wiley, etc.*)
+
+
+
 ### 🧠 Research Highlights  
 
 - **10+ SCI-indexed papers** (5× Q1, IEEE / Drones / Chinese Journal of Aeronautics)  
